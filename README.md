@@ -10,7 +10,7 @@
 ![alt tag](https://i.imgur.com/nAnfEnjl.jpg)
 
 ## 功能 (輸入相對應的關鍵字)
-***學歷***
+### 學歷
 
 ![alt tag](https://i.imgur.com/RjdYyxdl.jpg)
 
