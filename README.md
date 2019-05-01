@@ -7,7 +7,13 @@
 ![alt tag](https://imgur.com/6kA82Io.jpg)
 
 ### 加入畫面
-![alt tag](https://i.imgur.com/nAnfEnjh.jpg)
+![alt tag](https://i.imgur.com/nAnfEnjl.jpg)
 
 ### 功能
-***精選功能***
+***學歷***
+
+![alt tag](https://i.imgur.com/RjdYyxdl.jpg)
+
+***語言能力***
+
+![alt tag](https://i.imgur.com/UOENusHl.jpg)
