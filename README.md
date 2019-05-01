@@ -27,7 +27,7 @@
 * 連結一 是我撰寫的部落格 [blog6109](https://blog6109.herokuapp.com/) (可以在我的github首頁找到)
 * 連結二 是我的github
 
-![alt tag](https://i.imgur.com/nYJSDMUl.jpg)
+![alt tag](https://i.imgur.com/SjsyXzUl.jpg)
 
 ## 其他
 
