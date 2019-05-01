@@ -5,6 +5,7 @@
 
 ## QR Code
 我的 QRCODE
+
 ![alt tag](https://imgur.com/6kA82Io.jpg)
 
 ## 加入畫面
