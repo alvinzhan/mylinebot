@@ -24,6 +24,9 @@
 
 ***專長***
 
+* 連結一 是我撰寫的部落格(可以在我的github首頁找到)
+* 連結二 是我的github
+
 ![alt tag](https://i.imgur.com/nYJSDMUl.jpg)
 
 ## 其他
