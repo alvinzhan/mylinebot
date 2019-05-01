@@ -7,7 +7,7 @@
 ![alt tag](https://imgur.com/6kA82Io.jpg)
 
 ### 加入畫面
-![alt tag](https://imgur.com/nAnfEnj.jpg)
+![alt tag](https://i.imgur.com/nAnfEnjh.jpg)
 
 ### 功能
 ***精選功能***
