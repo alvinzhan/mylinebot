@@ -1,7 +1,12 @@
 # Mylinebot
-可以輸入以下關鍵字：
+介紹我自己的Line聊天機器人!
 
-學歷
-語言能力
-自我介紹
-專長
+
+## QR Code
+我的 QRCODE
+
+![alt tag](https://imgur.com/6kA82Io)
+
+### 功能
+
+
